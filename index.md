@@ -28,11 +28,11 @@ Please, install the latest versions of the software:
 [RStudio for Windows](https://www.rstudio.com/products/rstudio/)
 
 ## Learning Resources  
-We will use [DataCamp](https://www.datacamp.com/courses) for the homework  
+We will use [DataCamp](https://www.datacamp.com/courses) for the homework    
 For self-education, you might also like [swirl package for learning R](https://swirlstats.com/)
 
 ## Open-Access Online Books
-[Book "Applied Statistics in R" by David Dalpiaz](https://book.stat420.org)  
+[Book "Applied Statistics in R" by David Dalpiaz](https://book.stat420.org)    
 [Book "R Programming for Data Science" by Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience)
 
 ## Using ChatGPT
