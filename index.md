@@ -1,6 +1,8 @@
 ## M2 Quantitative Methods in Economic Geography
 
 **Contents**   
+
+
 [1. Introduction to R](1_intro.Rmd)
 
 [2. Descriptive Statistics](2_descript.Rmd)
@@ -21,18 +23,24 @@
 
 [10. Group Presentations](10_final.Rmd)
 
+
 **Prereqisites**  
+
 
 Please, install the latest versions of the software:   
 [R for Windows](https://cran.r-project.org/bin/windows/base/)   
 [RStudio for Windows](https://www.rstudio.com/products/rstudio/)
 
+
 **Learning Resources**    
+
 
 We will use [DataCamp](https://www.datacamp.com/courses) for the homework    
 For self-education, you might also like [swirl package for learning R](https://swirlstats.com/)
 
+
 **Open-Access Online Books**    
+
 
 [Book "Applied Statistics in R" by David Dalpiaz](https://book.stat420.org)    
 [Book "R Programming for Data Science" by Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience)
