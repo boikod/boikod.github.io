@@ -3,27 +3,29 @@
 **Contents**   
 
 
-[1. Introduction to R](1_intro.Rmd)
+[1. Introduction to R](1_intro.md)
 
-[2. Descriptive Statistics](2_descript.Rmd)
+[2. Descriptive Statistics](2_descript.md)
 
-[3. Simple Linear Regression](3_linear.Rmd)
+[3. Simple Linear Regression](3_linear.md)
 
-[4. Multiple Linear Regression](4_multiple.Rmd)
+[4. Multiple Linear Regression](4_multiple.md)
 
-[5. Visualization with ggplot2](5_visual.Rmd)
+[5. Visualization with ggplot2](5_visual.md)
 
-[6. Date-Time and Spatial Data](6_time.Rmd)
+[6. Date-Time and Spatial Data](6_time.md)
 
-[7. Spatial Autocorrelation](7_spatial.Rmd)
+[7. Spatial Autocorrelation](7_spatial.md)
 
-[8. Logistic Regression](8_logistic.Rmd)
+[8. Logistic Regression](8_logistic.md)
 
-[9. Model Interpretation](9_interpret.Rmd)
+[9. Interpretation of Regression Models](9_interpret.md)
 
-[10. Network Analysis and Visualization](10_network.Rmd)
+[10. Social Network Analysis](10_network.md)   
 
-[11. Group Presentations](11_final.Rmd)
+[11. Cluster Analysis](11_cluster.md)
+
+[12. Group Presentations](12_final.md)
 
 
 **Prereqisites**  
