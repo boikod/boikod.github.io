@@ -13,9 +13,9 @@
 
 [5. Visualization with ggplot2](5_visual.Rmd)
 
-[6. Date-Time data](6_time.Rmd)
+[6. Date-Time and Spatial Data](6_time.Rmd)
 
-[7. Spatial econometrics](7_spatial.Rmd)
+[7. Spatial Autocorrelation](7_spatial.Rmd)
 
 [8. Logistic Regression](8_logistic.Rmd)
 
@@ -28,17 +28,20 @@
 
 **Prereqisites**  
 
+Please, bring your own laptops!   
 
 Please, install the latest versions of the software:   
 [R for Windows](https://cran.r-project.org/bin/windows/base/)   
-[RStudio for Windows](https://www.rstudio.com/products/rstudio/)
+[RStudio for Windows](https://www.rstudio.com/products/rstudio/)    
+
+Make sure to be enrolled for this course in the StudIP.
 
 
 **Learning Resources**    
 
 
-We will use [DataCamp](https://www.datacamp.com/courses) for the homework    
-For self-education, you might also like [swirl package for learning R](https://swirlstats.com/)
+We will use [DataCamp](https://www.datacamp.com/courses) for the homework.    
+For self-education, you might also like [swirl package for learning R](https://swirlstats.com/).
 
 
 **Open-Access Online Books**    
