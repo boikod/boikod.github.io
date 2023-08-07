@@ -7,21 +7,23 @@
 
 [2. Descriptive Statistics](2_descript.Rmd)
 
-[3. Linear Regression](3_linear.Rmd)
+[3. Simple Linear Regression](3_linear.Rmd)
 
 [4. Multiple Linear Regression](4_multiple.Rmd)
 
-[5. Geospatial Data in R](5_maps.Rmd)
+[5. Visualization with ggplot2](5_visual.Rmd)
 
-[6. Spatial Analysis](6_spatial.Rmd)
+[6. Date-Time data](6_time.Rmd)
 
-[7. Spatial Regression](7_sp_regr.Rmd)
+[7. Spatial econometrics](7_spatial.Rmd)
 
-[8. Date-Time Data](8_time.Rmd)
+[8. Logistic Regression](8_logistic.Rmd)
 
-[9. Logistic Regression](9_logistic.Rmd)
+[9. Model Interpretation](9_interpret.Rmd)
 
-[10. Group Presentations](10_final.Rmd)
+[10. Network Analysis and Visualization](10_network.Rmd)
+
+[11. Group Presentations](11_final.Rmd)
 
 
 **Prereqisites**  
