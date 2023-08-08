@@ -13,13 +13,13 @@
 
 [5. Visualization with ggplot2](5_visual.md)
 
-[6. Date-Time and Spatial Data](6_time.md)
+[6. Logistic Regression](6_logistic.md)
 
-[7. Spatial Autocorrelation](7_spatial.md)
+[7. Interpretation of Regression Models](7_interpret.md)
 
-[8. Logistic Regression](8_logistic.md)
+[8. Date-Time and Spatial Data](8_time.md)
 
-[9. Interpretation of Regression Models](9_interpret.md)
+[9. Spatial Autocorrelation](9_spatial.md)
 
 [10. Social Network Analysis](10_network.md)   
 
