@@ -18,6 +18,7 @@
 [7. Interpretation of Regression Models](7_interpret.md)
 
 [8. Date-Time and Spatial Data](8_time.md)
+[8. Date-Time and Spatial Data](https://boikod.github.io/8_time)
 
 [9. Spatial Autocorrelation](9_spatial.md)
 
