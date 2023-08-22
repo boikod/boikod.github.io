@@ -3,23 +3,23 @@
 **Contents**   
 
 
-[1. Introduction to R](1_intro.md)
+[1. Introduction to R](01_intro.md)
 
-[2. Simple Linear Regression](2_linear.md)
+[2. Simple Linear Regression](02_linear.md)
 
-[3. Multiple Linear Regression](3_multiple.md)
+[3. Multiple Linear Regression](03_multiple.md)
 
-[4. Visualization with ggplot2](4_visual.md)
+[4. Visualization with ggplot2](04_visual.md)
 
-[5. Spatial data](5_spatial_data.md)
+[5. Spatial data](05_spatial_data.md)
 
-[6. Spatial econometrics](6_spatial_econometrics.md)
+[6. Spatial econometrics](06_spatial_econometrics.md)
 
-[7. Time Series Data](7_time.md)
+[7. Time Series Data](07_time.md)
 
-[8. Logistic Regression](8_logistic.md)
+[8. Logistic Regression](08_logistic.md)
 
-[9. Interpretation of Regression Models](9_interpret.md)
+[9. Interpretation of Regression Models](09_interpret.md)
 
 [10. Panel Data Analysis](10_panel.md)
 
