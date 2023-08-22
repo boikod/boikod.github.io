@@ -5,11 +5,9 @@
 
 [1. Introduction to R](1_intro.md)
 
-[2. Descriptive Statistics](2_descript.md)
+[2. Simple Linear Regression](2_linear.md)
 
-[3. Simple Linear Regression](3_linear.md)
-
-[4. Multiple Linear Regression](4_multiple.md)
+[3. Multiple Linear Regression](3_multiple.md)
 
 [5. Visualization with ggplot2](5_visual.md)
 
