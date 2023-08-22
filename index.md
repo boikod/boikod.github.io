@@ -11,6 +11,8 @@
 
 [4. Visualization with ggplot2](4_visual.md)
 
+[5. Spatial data](5_spatial.md)
+
 [6. Logistic Regression](6_logistic.md)
 
 [7. Interpretation of Regression Models](7_interpret.md)
