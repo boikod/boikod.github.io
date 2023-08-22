@@ -15,7 +15,7 @@
 
 [6. Spatial econometrics](6_spatial_econometrics.md)
 
-[7. Date-Time and Spatial Data](7_time.md)
+[7. Time Series Data](7_time.md)
 
 [8. Logistic Regression](8_logistic.md)
 
