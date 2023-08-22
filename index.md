@@ -11,19 +11,19 @@
 
 [4. Visualization with ggplot2](4_visual.md)
 
-[5. Spatial data](5_spatial.md)
+[5. Spatial data](5_spatial_data.md)
 
-[6. Logistic Regression](6_logistic.md)
+[6. Spatial econometrics](6_spatial_econometrics.md)
 
-[7. Interpretation of Regression Models](7_interpret.md)
+[7. Date-Time and Spatial Data](7_time.md)
 
-[8. Date-Time and Spatial Data](8_time.md)
+[8. Logistic Regression](8_logistic.md)
 
-[9. Spatial Autocorrelation](9_spatial.md)
+[9. Interpretation of Regression Models](9_interpret.md)
 
-[10. Social Network Analysis](10_network.md)   
+[10. Panel Data Analysis](10_panel.md)
 
-[11. Cluster Analysis](11_cluster.md)
+[11. Social Network Analysis](11_network.md)   
 
 [12. Group Presentations](12_final.md)
 
