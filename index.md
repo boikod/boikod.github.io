@@ -9,7 +9,7 @@
 
 [3. Multiple Linear Regression](3_multiple.md)
 
-[5. Visualization with ggplot2](5_visual.md)
+[4. Visualization with ggplot2](4_visual.md)
 
 [6. Logistic Regression](6_logistic.md)
 
