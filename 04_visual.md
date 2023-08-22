@@ -1,3 +1,3 @@
 Visualization with ggplot2
 
-[ggplot2 cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+[cheatsheet ggplot2](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
