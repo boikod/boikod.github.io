@@ -36,7 +36,7 @@ Please, install the latest versions of the software:
 [R for Windows](https://cran.r-project.org/bin/windows/base/)   
 [RStudio for Windows](https://www.rstudio.com/products/rstudio/)    
 
-Make sure to be enrolled for this course in the StudIP.
+Make sure to be enrolled for this course in the StudIP.  
 
 
 **Learning Resources**    
