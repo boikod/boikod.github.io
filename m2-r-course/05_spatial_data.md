@@ -11,3 +11,4 @@ comparing R and Python for geodata : https://geocompx.org/post/2023/ogh23/
 **Online-books**
 Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2019. Geocomputation with R. CRC Press. https://r.geocompx.org/.
 Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in r. CRC Press. https://r-spatial.org/book/. 
+Paula Moraga 2023. Spatial Statistics for Data Science: Theory and Practice with R. Chapman & Hall/CRC. https://www.paulamoraga.com/book-spatial/
