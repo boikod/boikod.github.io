@@ -4,12 +4,12 @@ layout: default
 
 [LinkedIn](https://de.linkedin.com/in/dmitry-boyko-02046896) |
 [ResearchGate](https://www.researchgate.net/profile/Dmitry-Boyko) |
-[LUH](https://www.iwkg.uni-hannover.de/de/dmitry-boyko)|
+[Website](https://www.iwkg.uni-hannover.de/de/dmitry-boyko)|
 [Twitter](https://twitter.com/dm_boyko)
 
 Welcome! I am spatial planner & researcher. Currently I work on my PhD project at the Institute of Economic and Cultural Geography, Leibniz University Hannover.  
 
-[Contact](https://www.iwkg.uni-hannover.de/de/dmitry-boyko) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
+[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
 
 # Curriculum vitae
 
