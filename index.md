@@ -40,8 +40,8 @@ Welcome! I am spatial planner & researcher. Currently I work on my PhD project a
 
 # Publications
 
-[Gerten, Christian; **Boyko, Dmitry**; Fina, Stefan (2022) Patterns of Post-socialist Urban Development in Russia and Germany. Frontiers in Sustainable Cities 4:846956](https://www.frontiersin.org/articles/10.3389/frsc.2022.846956/full)
-
+[Gerten, Christian; **Boyko, Dmitry**; Fina, Stefan (2022) Patterns of Post-socialist Urban Development in Russia and Germany. Frontiers in Sustainable Cities 4:846956](https://www.frontiersin.org/articles/10.3389/frsc.2022.846956/full)     
+[**Boyko, Dmitry**; Zuev, Alexander; Parygin, Danila (2022) Land plot data usage for urban transect zones delimitation in case of Tula. Proceedings of the XXVII International Seminar on Urban Form](https://strathprints.strath.ac.uk/80456/)     
 
 # Teaching
 
