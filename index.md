@@ -3,7 +3,7 @@ layout: default
 ---
 
 [LinkedIn](https://de.linkedin.com/in/dmitry-boyko-02046896) |
-[ResearchGate](https://www.researchgate.net/profile/Dmitry-Boyko)
+[ResearchGate](https://www.researchgate.net/profile/Dmitry-Boyko) |
 [LUH](https://www.iwkg.uni-hannover.de/de/dmitry-boyko)|
 [Twitter](https://twitter.com/dm_boyko)
 
