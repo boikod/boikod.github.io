@@ -3,12 +3,11 @@ layout: default
 ---
 
 [LinkedIn](https://de.linkedin.com/in/dmitry-boyko-02046896) |
+[ResearchGate](https://www.researchgate.net/profile/Dmitry-Boyko)
 [LUH](https://www.iwkg.uni-hannover.de/de/dmitry-boyko)|
 [Twitter](https://twitter.com/dm_boyko)
 
 Welcome! I am spatial planner & researcher. Currently I work on my PhD project at the Institute of Economic and Cultural Geography, Leibniz University Hannover.  
-
-[Material for seminars](m2-r-course/r-course.md)
 
 [Contact](https://www.iwkg.uni-hannover.de/de/dmitry-boyko) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
 
@@ -49,7 +48,5 @@ Welcome! I am spatial planner & researcher. Currently I work on my PhD project a
 
 ## Seminars
 
-- "M2 Quantitative Methods of Empiric Economic Geography" Leibniz University Hannover. WS 2023: 2 SWS
-
-- "M2 Quantitative Methods of Empiric Economic Geography" Leibniz University Hannover. WS 2022: 2 SWS
-
+- "M2 Quantitative Methods of Empiric Economic Geography" Leibniz University Hannover. WS 2022 & 2023    
+[Material for seminars](m2-r-course/r-course.md)
